@@ -73,8 +73,5 @@ For the app to function correctly, certain environment variables need to be set.
 - [Strapi](https://strapi.io/)
 - [Stripe](https://stripe.com/)
 - [SASS](https://sass-lang.com/)
-#   S h o p p i n g 
- 
- #   S h o p p i n g 
  
  
